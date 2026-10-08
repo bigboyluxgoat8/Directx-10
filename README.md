@@ -212,4 +212,4 @@ DirectX 10 is available as a complete free version, with all features and update
 Experience the power of DirectX 10 today! Download now for a richer multimedia experience and unlock your true gaming potential!
 
 ---
-**Last updated:** 2026-10-07 21:00:09 UTC
+**Last updated:** 2026-10-08 01:27:44 UTC
